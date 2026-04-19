@@ -1,4 +1,4 @@
-# regrex
+# regex
 
 ## How It Works
 Each card type has a unique prefix (the digits it starts with) and a specific number length.  
